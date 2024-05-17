@@ -1,7 +1,7 @@
 <?php
 
 //set the values here
-$db_url = "env2-rdsdbinstance-uk4mzoja1zdd.cziula9w4lv2.us-east-1.rds.amazonaws.com";
+$db_url = "envv-rdsdbinstance-5ddcx13rg39p.cziula9w4lv2.us-east-1.rds.amazonaws.com";
 $db_user = "admin";
 $db_password = "Re:Start!9";
 $db_name = "cafe_db";
